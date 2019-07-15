@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1184,
+  "expoServerNgrokUrl": "https://pr-rx3.rajneesh84458.bus-tracking-system.exp.direct",
+  "packagerNgrokUrl": "https://packager.pr-rx3.rajneesh84458.bus-tracking-system.exp.direct",
+  "ngrokPid": 6240,
+  "devToolsPort": 19002,
+  "webpackServerPort": null
+}
